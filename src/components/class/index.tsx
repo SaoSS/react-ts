@@ -1,6 +1,6 @@
 import React from "react";
 
-function Dom2(){
+const ClassDom = () =>{
     return (
         <div>
             <span>前往dom1</span>
@@ -8,5 +8,5 @@ function Dom2(){
     )
 }
 
-export default Dom2;
+export default ClassDom;
 
